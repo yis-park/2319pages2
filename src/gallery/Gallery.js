@@ -2,7 +2,7 @@ import axios from "axios";
 import { useEffect, useState } from "react";
 import GalleryList from "./GalleryList";
 import GallerySearch from "./GallerySearch";
-import { Container } from "../assets/GallerylStyle";
+import { Container } from "./GallerylStyle";
 
 function Gallery() {
   const [error, setError] = useState(null);

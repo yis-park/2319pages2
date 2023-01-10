@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { ImgSearch } from "./GalleryStyle";
+import { ImgSearch } from "./GallerylStyle";
 
 function GallerySearch({ onSearch }) {
   const [text, setText] = useState("");

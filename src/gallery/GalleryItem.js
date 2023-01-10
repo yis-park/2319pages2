@@ -1,4 +1,4 @@
-import { GalleryItemBox } from "../assets/GallerylStyle";
+import { GalleryItemBox } from "./GallerylStyle";
 
 function GalleryItem({ item }) {
   const { user, previewURL, views, tags, type } = item;

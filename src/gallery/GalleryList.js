@@ -1,7 +1,7 @@
 import Masonry from "react-masonry-css";
 import GalleryItem from "./GalleryItem";
-import { GalleryListContainer } from "../assets/GallerylStyle";
-import { breakpointColumnsObj } from "../assets/GallerylStyle";
+import { GalleryListContainer } from "./GallerylStyle";
+import { breakpointColumnsObj } from "./GallerylStyle";
 
 function GalleryList({ data }) {
   return (
