@@ -16,8 +16,6 @@ const GalleryItemBox = styled.section`
   ul {
     margin: 0;
     font-size: 0.95em;
-    li {
-    }
   }
 `;
 

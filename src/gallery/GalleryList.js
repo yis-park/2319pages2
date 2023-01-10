@@ -13,15 +13,15 @@ const GalleryListContainer = styled.div`
     background-clip: padding-box;
   }
   /* Style your items */
-  .my-masonry-grid_column > div {
+  .my-masonry-grid_column > section {
     /* change div to reference your elements you put in <Masonry> */
-    background: grey;
+    background: #efefef;
     margin-bottom: 30px;
   }
 `;
 
 const breakpointColumnsObj = {
-  default: 3,
+  default: 4,
   1400: 4,
   960: 3,
   414: 2,
