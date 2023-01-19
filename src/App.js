@@ -11,8 +11,8 @@ function App() {
       {/* <h1> App.js</h1> */}
       {/* <Checkbox /> */}
       {/* <Youtube1 /> */}
-      {/* <Youtube2 /> */}
-      <Gallery />
+      <Youtube2 />
+      {/* <Gallery /> */}
     </>
   );
 }
